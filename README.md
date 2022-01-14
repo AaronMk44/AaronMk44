@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AaronMk44
+- 👋 Hi, I’m Aaron Mkandawire
 - 👀 I’m interested in building software software systematically. Everything from web technologies to AI and the cloud.
 - 🌱 I’m currently learning JavaScript and its frameworks, and Java.
 - 💞️ I’m looking to collaborate on any project concerning the Web, VR, Andriod and Desktop programs.

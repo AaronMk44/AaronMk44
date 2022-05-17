@@ -1,16 +1,54 @@
-👋 Hi, 
+<img src="https://scontent.flun1-3.fna.fbcdn.net/v/t39.30808-6/245306020_178693271078334_1370748197196088142_n.jpg?_nc_cat=107&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeEKzrOoyd8c13RdMQLHhv0CicJiwu3nv76JwmLC7ee_vr1TV00x5dlGhZ9EEYLeqViOiZVW7VXts6ayqzzsEIh4&_nc_ohc=TRibKVvI-owAX_7k3yQ&_nc_zt=23&_nc_ht=scontent.flun1-3.fna&oh=00_AT-5MHWzXvhOFPxDa-yoxxp4NrJ2ruhbwa7XFdapOVCR9g&oe=62888F1B" width="100">
 
+<span>Hello 😎,</span>
+<h1>I'm Aaron Mkandawire</h1>
 
-I’m Aaron Mkandawire
-- 👀 I’m interested in building software systematically. Everything from web technologies to Virtual reality and the cloud.
-- 🌱 I’m currently learning JavaScript and its frameworks, and Java.
-- 💞️ I’m looking to collaborate on any project concerning the Web, VR, Andriod and Desktop programs.
-- 📫 Get in touch with me via aaronmkandawire44@outlook.com
-
+<h5>A bachelor student at the <a href="https://www.zictcollege.ac.zm/">Zambia ICT College</a>, majoring in Software Engineering. 😊</h5>
 
 
 
-<!---
-AaronMk44/AaronMk44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, PHP, Java, C++],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         php: ["raw", "CodeIgniter 4"],
+         cloud: ["Heroku", "Digital Ocean", "CPanel"]
+      },
+      databases: ["Postgres", "MySQL", "SQLite"],
+      mobile: ["Android", "Ionic"]
+   },
+   currentOccupation: ["junior (3rd year) student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a startup.",
+};
+```
+</br></br>
+<h2>💻 My Stats 💻</h2>
+
+![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronmk44&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><br>
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
+### Other Languages I know
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+---

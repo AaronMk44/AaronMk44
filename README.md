@@ -1,6 +1,5 @@
-<img src="https://scontent.flun1-3.fna.fbcdn.net/v/t39.30808-6/245306020_178693271078334_1370748197196088142_n.jpg?_nc_cat=107&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeEKzrOoyd8c13RdMQLHhv0CicJiwu3nv76JwmLC7ee_vr1TV00x5dlGhZ9EEYLeqViOiZVW7VXts6ayqzzsEIh4&_nc_ohc=TRibKVvI-owAX_7k3yQ&_nc_zt=23&_nc_ht=scontent.flun1-3.fna&oh=00_AT-5MHWzXvhOFPxDa-yoxxp4NrJ2ruhbwa7XFdapOVCR9g&oe=62888F1B" width="100">
 
-<span>Hello 😎,</span>
+<h1>Hello 😎,</h1>
 <h1>I'm Aaron Mkandawire</h1>
 
 <h5>A bachelor student at the <a href="https://www.zictcollege.ac.zm/">Zambia ICT College</a>, majoring in Software Engineering. 😊</h5>

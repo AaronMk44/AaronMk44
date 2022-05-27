@@ -18,9 +18,9 @@ const aboutMe = {
       backEnd: {
          php: ["raw", "CodeIgniter 4"],
          cloud: ["Heroku", "Digital Ocean", "CPanel"]
-      },
-      desktop: ['Electron.js','JavaFX'],
+      },      
       databases: ["Postgres", "MySQL", "SQLite"],
+      desktop: ['Electron.js','JavaFX'],
       mobile: ["Android", "Ionic"]
    },
    currentOccupation: ["junior (3rd year) student, open for job opportunities"],

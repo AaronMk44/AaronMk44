@@ -19,6 +19,7 @@ const aboutMe = {
          php: ["raw", "CodeIgniter 4"],
          cloud: ["Heroku", "Digital Ocean", "CPanel"]
       },
+      desktop: ['Electron.js','JavaFX'],
       databases: ["Postgres", "MySQL", "SQLite"],
       mobile: ["Android", "Ionic"]
    },

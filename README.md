@@ -2,7 +2,7 @@
 <h3>Hello 😎,</h3>
 <h1>I'm Aaron Mkandawire</h1>
 
-<h5>A Software Engineering Major. 😊</h5>
+<h3>A Software Engineering Major. 😊</h3>
 
 
 

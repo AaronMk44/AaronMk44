@@ -12,11 +12,11 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, PHP, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React.js, React Router, Redux.js"],
+         css: ["Materialize", "Bootstrap 5", "Material Design", "Tail Wind"]
       },
       backEnd: {
-         php: ["raw", "CodeIgniter 4"],
+         serverSide: ["php", "CodeIgniter 4"],
          cloud: ["Heroku", "Digital Ocean", "CPanel"]
       },      
       databases: ["Postgres", "MySQL", "SQLite"],

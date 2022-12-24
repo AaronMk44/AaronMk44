@@ -1,40 +1,53 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aaron Mkandawire</h1>
+<h3 align="center">Software Engineer | Tech Entrepreneur | Data Analysis Enthusiast</h3>
+<p align="center">
 
-<h3>Hello 😎,</h3>
-<h1>I'm Aaron Mkandawire</h1>
+<p align="center">
+    This is ME, Aaron Mkandawire, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/](https://www.zictcollege.ac.zm/"> <b>Zambia University College of Technology</b>, ZUT</a>. <br>
+    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>Learning while HOPING & HUSTLING!</b>
+</p>
+<br>
 
-<h3>A Software Engineering Major. 😊</h3>
-
-
+<h2 align="center">About 😎 </h2>
+<br>
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, PHP, Java, C++],
+   code: [JavaScript, PHP, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React.js, React Router, Redux.js"],
-         css: ["Materialize", "Bootstrap 5", "Material Design", "Tail Wind"]
+         js: ['React.js', 'React Router', 'Redux.js'],
+         css: ['Materialize', 'Bootstrap 5', 'Material Design', 'Tail Wind']
       },
       backEnd: {
-         serverSide: ["php", "CodeIgniter 4"],
-         cloud: ["Heroku", "Digital Ocean", "CPanel"]
+         serverSide: ['PHP 8.2', 'CodeIgniter 4'],
+         cloud: ['Heroku', 'Digital Ocean', 'CPanel']
       },      
-      databases: ["Postgres", "MySQL", "SQLite"],
+      databases: ['Postgres', 'MySQL', 'SQLite', 'MariaDB'],
       desktop: ['Electron.js','JavaFX'],
-      mobile: ["Android", "Ionic"]
+      mobile: ['Android Studio with Java', 'React Native'],
+      vr: ['three.js', 'AFrame']
    },
-   currentOccupation: ["junior (3rd year) student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a startup.",
+   currentOccupation: ["Senior Student & Part-Time Software Developer, open for further Job Opportunities"],
+   challenge: "I'm working towards being able to run a startup. 😉",
 };
 ```
 </br></br>
-<h2>GitHub Stats! 📊</h2>
+<h2 align="center">GitHub Stats! 📊</h2>
 <Br>
   
-[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=AaronMk44&show_icons=true&theme=merko)](https://github.com/AaronMk44/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronMk44&layout=compact&theme=merko)](https://github.com/AaronMk44/github-readme-stats)
-
-
----
+[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=AaronMk44&show_icons=true&theme=merko&count_private=true&show_icons=true)](https://github.com/AaronMk44/github-readme-stats) 
+[![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AaronMk44&theme=merko)](https://github.com/AaronMk44/github-readme-stats)
 
 ### Tech Stack
 

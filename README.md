@@ -17,7 +17,7 @@
 </p>
 <br>
 
-<h2 align="center">About 😎 </h2>
+<h2 align="center">About</h2>
 <br>
 
 ```javascript
@@ -43,7 +43,7 @@ const aboutMe = {
 };
 ```
 </br></br>
-<h2 align="center">GitHub Stats! 📊</h2>
+<h2 align="center">GitHub Statistics</h2>
 <Br>
   
 [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=AaronMk44&show_icons=true&theme=merko&count_private=true&show_icons=true)](https://github.com/AaronMk44/github-readme-stats) 

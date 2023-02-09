@@ -1,16 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aaron Mkandawire</h1>
+<h1 align="center">Hi, I'm Aaron</h1>
 <h3 align="center">Software Engineer • Full Stack Developer</h3>
 <p align="center">
 
 <p align="center">
-    This is ME, Aaron Mkandawire, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/](https://www.zictcollege.ac.zm/"> <b>Zambia University College of Technology</b>, ZUT</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b>Learning while HOPING & HUSTLING!</b>
-</p>
+    This is Aaron Mkandawire, a <b>Professional Software Engineer</b> from Zambia.
 <br>
 
 <h2 align="center">About</h2>

@@ -11,7 +11,7 @@
 
 ```javascript
 import * from '@skills'
-import { he, her } from '@gender'
+import { he, him } from '@gender'
 
 const aboutMe = {
    pronouns: [he, him],

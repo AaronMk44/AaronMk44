@@ -15,11 +15,11 @@ import { he, him } from '@gender'
 
 const aboutMe = {
    pronouns: [he, him],
-   code: ['JavaScript', PHP, Python ,Java, C++],
+   code: [JavaScript, PHP, Python ,Java, C++],
    technologies: {
       frontEnd: {
-         js: ['Vanila JS', 'React.js', 'React Router', 'Redux.js'],
-         css: ['Materialize', 'Bootstrap 5', 'Material Design', 'Tailwind']
+         js: [VanilaJS, React.js, ReactRouter, Redux.js],
+         css: [Materialize, Bootstrap5, MaterialDesign, Tailwind]
       },
       backEnd: {
          serverSide: ['PHP 8.2', 'CodeIgniter 4'],

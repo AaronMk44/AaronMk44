@@ -10,20 +10,23 @@
 <br>
 
 ```javascript
+import * from '@skills'
+import { he, her } from '@gender'
+
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [JavaScript, PHP, Java, C++],
+   pronouns: [he, him],
+   code: ['JavaScript', PHP, Python ,Java, C++],
    technologies: {
       frontEnd: {
-         js: ['React.js', 'React Router', 'Redux.js'],
-         css: ['Materialize', 'Bootstrap 5', 'Material Design', 'Tail Wind']
+         js: ['Vanila JS', 'React.js', 'React Router', 'Redux.js'],
+         css: ['Materialize', 'Bootstrap 5', 'Material Design', 'Tailwind']
       },
       backEnd: {
          serverSide: ['PHP 8.2', 'CodeIgniter 4'],
-         cloud: ['Heroku', 'Digital Ocean', 'CPanel']
+         cloud: ['Digital Ocean', 'CPanel']
       },      
       databases: ['Postgres', 'MySQL', 'SQLite', 'MariaDB'],
-      desktop: ['Electron.js','JavaFX'],
+      desktop: ['Electron.js','JavaFX', 'PyQt5'],
       mobile: ['Android Studio with Java', 'React Native'],
       vr: ['three.js', 'AFrame']
    },

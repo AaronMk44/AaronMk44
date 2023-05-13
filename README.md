@@ -3,7 +3,7 @@
 <p align="center">
 
 <p align="center">
-    This is Aaron Mkandawire, a <b>Professional Software Engineer</b> from Zambia.
+    Aaron Mkandawire is a <b>Professional Software Engineer</b> from Zambia.
 <br>
 
 <h2 align="center">About</h2>

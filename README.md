@@ -18,7 +18,7 @@ const aboutMe = {
    code: [JavaScript, PHP, Python ,Java, C++],
    technologies: {
       frontend: {
-         js: [VanilaJS, React.js, ReactRouter, Redux.js],
+         js: [VanilaJS, React, ReactRouter, Redux],
          css: [Materialize, Bootstrap5, MaterialDesign, Tailwind]
       },
       backend: {

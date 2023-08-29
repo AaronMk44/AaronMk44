@@ -6,7 +6,7 @@
     Aaron Mkandawire is a <b>Professional Software Engineer</b> from Zambia.
 <br>
 
-<h2 align="center">About</h2>
+<h2 align="center"></h2>
 <br>
 
 ```javascript

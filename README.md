@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Aaron</h1>
 <h3 align="center">Software Engineer • Full Stack Developer</h3>
-<p align="center">
 
 <p align="center">
-    Aaron Mkandawire is a <b>Professional Software Engineer</b> from Zambia.
+    Aaron Mkandawire is a <b> Professional Software Engineer </b> from Zambia.
+</p>
 <br>
 
 <h2 align="center"></h2>

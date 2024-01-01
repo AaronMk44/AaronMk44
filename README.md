@@ -35,3 +35,11 @@ const aboutMe = {
    challenge: "I'm working towards building a simulation of the World Wide Web on an Intranet",
 };
 ```
+
+## GitHub Activity Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronMk44&theme=algolia" alt="AaronMk44"/></p>
+
+<p align="center">
+    <img alt="AaronMk44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AaronMk44&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronMk44&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AaronMk44" height="192px"/>
+</p>

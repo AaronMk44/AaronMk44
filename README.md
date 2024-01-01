@@ -23,15 +23,15 @@ const aboutMe = {
       },
       backend: {
          serverSide: [PHP8, CodeIgniter4, Flask],
-         cloud: [DigitalOcean, Linode, CPanel],
-         devOps: [Git, GitHub, WebHosting, LinuxServerAdministration]
+         cloud: [DigitalOcean, GCP, CPanel, HPanel],
+         devOps: [Git, GitHub, WebHosting, CI/CD, LinuxServerAdministration]
       },      
       databases: [Postgres, MySQL, SQLite, MariaDB],
       desktop: [ElectronJS, JavaFX, PyQt5],
       mobile: [AndroidStudio, ReactNative],
       vr: [three.js, AFrame]
    },
-   currentOccupation: ["Senior Student & Part-Time Software Developer, open for further challenging Job Opportunities"],
+   currentOccupation: ["Junior Software Engineer, open for further challenging Job Opportunities"],
    challenge: "I'm working towards building a startup",
 };
 ```

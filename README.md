@@ -32,7 +32,7 @@ const aboutMe = {
       vr: [three.js, AFrame]
    },
    currentOccupation: ["Senior Student & Part-Time Software Developer, open for further challenging Job Opportunities"],
-   challenge: "I'm working towards building a simulation of the World Wide Web on an Intranet",
+   challenge: "I'm working towards building a startup",
 };
 ```
 

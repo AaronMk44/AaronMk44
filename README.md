@@ -31,7 +31,7 @@ const aboutMe = {
       mobile: [AndroidStudio, ReactNative],
       vr: [three.js, AFrame]
    },
-   currentOccupation: ["Junior Software Engineer, open for further challenging Job Opportunities"],
+   currentOccupation: ["Mid-Level Software Engineer, open for further challenging Job Opportunities"],
    challenge: "I'm working towards building a startup",
 };
 ```
